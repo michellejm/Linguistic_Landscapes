@@ -1,5 +1,7 @@
 # Using Twitter in the classroom 
 
+This tutorial was prepared by Michelle A. McSweeney for the Learning and Teaching with Urban and Linguistic Landscapes Workshop at Columbia University on October 14-15, 2016. 
+
 ## Introduction
 The purpose of this tutorial is to illustrate how to find tweets from a given location for use in the classroom. Twitter allows users to search for tweets in 34 languages across the world. This is invaluable for teaching and learning languages as it provides an opportunity for students to engage with authentic language and compare language usage in different areas. 
 
